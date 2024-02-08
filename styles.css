@@ -1,0 +1,235 @@
+.header{
+    display: fleX;
+    flex-direction: row;
+    justify-content:space-between;
+    height:65px;
+    border-bottom-style: outset;
+}
+.image{
+    display: fleX;
+    flex-direction: row;
+    width: 55px;
+    margin-left: 10px;
+    background-color: deeppink;
+    height: 30px;
+    margin-top: 8px;
+}
+#logo{
+    width: 55px;
+    height: 50px;
+
+}
+.menu{
+    display: fleX;
+    flex-direction: row;
+    justify-content:space-between;
+    width: 500px;
+}
+.men,.women,.kids,.homeliving,.beauty,.studio{
+    display:flex;
+    flex-direction: row;
+    height: 25px;
+    margin-top: 20px;
+    font-weight: bold;
+
+}
+.searchContainer{
+    display: fleX;
+    flex-direction: row;
+    width: 450px;
+    background-color:fuchsia;
+    height: 25px;
+    margin-top: 15px;
+}
+#searchbar{
+    width: 450px;
+    height: 25px;
+    border-style: none;
+    background-color:rgb(241, 238, 238);
+}
+.navigation{
+    display: fleX;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 120px;
+    margin-right: 10px;
+   
+}
+.profile{
+    display:flex;
+    flex-direction: row;
+    background-color: darkmagenta;
+    height: 25px;
+    font-size: 10px;
+    margin-top: 13px;
+    width: 30px;
+}
+#p{
+    height: 25px;
+    width: 30px;
+
+}
+.wishlist{
+    display:flex;
+    flex-direction: row;
+    background-color: darkmagenta;
+    height: 25px;
+    margin-top: 13px;
+    width: 30px;
+    font-size: 10px;
+}
+#w{
+    height: 25px;
+    width: 30px;
+
+}
+.bag{
+    display:flex;
+    flex-direction: row;
+    background-color: darkmagenta;
+    height: 25px;
+    width: 30px;
+margin-top: 13px;
+font-size: 10px;
+margin-left: 2px;
+}
+#b{
+    height: 25px;
+    width: 30px;
+}
+.bodydata{
+    display: fleX;
+    flex-direction: row;
+    justify-content: space-between;
+    height:550px;
+}
+
+.list{
+     display: fleX;
+    flex-direction: row wrap;
+    background-color: chocolate;
+    width:1000px;
+    height:500px;
+    
+}
+#add{
+    width:1000px;
+    height:500px;
+
+}
+.scrollBar{
+    display: fleX;
+    height:30px;
+    width:200px;
+    margin-top: 5px;
+    margin-left: 600px;
+    background-color: hotpink;
+}
+.items{
+    display: flex;
+    flex-direction:column;
+
+}
+.brands{
+    display: fleX;
+    flex-direction:row;
+    justify-content:space-between;
+    width: 375px;
+    height: 200px;
+}
+.brand1{
+    display: fleX;
+    flex-direction: row;
+    height:60px;
+    width: 100px;
+   margin-top: 120px;
+   background-color: brown;
+}
+#b1{
+    height:60px;
+    width: 100px;
+}
+.brand2{
+    display: fleX;
+    flex-direction: row;
+    width:100px;
+    height:60px;
+    margin-top: 120px;
+    background-color: brown;
+}
+#b2{
+    height:60px;
+    width: 100px;
+
+}
+.morebrands{
+    display: fleX;
+    flex-direction: row;
+    height:60px;
+    width: 100px;
+    margin-top: 120px;
+    background-color: brown;
+}
+#MB{
+    height:60px;
+    width: 100px;
+
+}
+.discount{
+    display: fleX;
+    flex-direction: row;
+    height: 130px;
+    width:370px;
+
+    background-color: darkcyan;
+
+}
+#dis{
+    height: 130px;
+    width:370px;
+
+}
+.exp{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: darkcyan;
+}
+#ex{
+    height: 50px;
+}
+.off{
+    display: fleX;
+    flex-direction: row;
+}
+.offers{
+    display: fleX;
+    margin-top: 170px;
+    width: 50px;
+    height:350px;
+    background-color: crimson;
+}
+#FL
+{
+    width: 50px;
+    height:350px;
+}
+.textMessage{
+    display: fleX;
+    justify-content: row;
+    height: 50px;
+}
+.message{
+    display: fleX;
+    justify-content: row;
+    font-size: 500px;
+
+}
+.b3{
+    display:flex;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-top: 10px;
+    font-weight: bold ;
+}
+
